@@ -8,4 +8,16 @@
 - I then tested the model locally without any conditions and added keras.h5 model to the code.
 
 ## Milestone 3
-- Created the lgoic for the Rock, Paper, Scissors game with only user input. 
+- Created the logic for the Rock, Paper, Scissors game with only user input and no cmaera input.
+- 4 functions were created:
+    - Get computer choice
+    - Get user choice
+    - Get winner
+    - Play
+
+## Milestone 4
+- Game logic with camera input
+- Basic UI
+
+## Conclusion
+- Leaned how to set up a Conda environment and accepting inputs for a camera.
